@@ -2,3 +2,6 @@
 require("config.lazy")
 
 vim.cmd("autocmd VimEnter * hi normal guibg=000000")
+
+
+
